@@ -16,8 +16,8 @@
  *   The header file that contains all functions prototypes that used 
  *   to calculate the statistics. 
  *
- * @author Renato Soriano 
- * @date 03/10/2022 
+ * @author Vashishth Patel 
+ * @date 22/05/2025 
  *
  */
 #ifndef __STATS_H__
